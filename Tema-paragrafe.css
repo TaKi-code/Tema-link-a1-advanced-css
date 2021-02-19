@@ -1,0 +1,16 @@
+a {
+    color: green;
+}
+a[href="https://www.link-group.eu/"]
+{
+    color: red;
+}
+#some {
+    color: darkblue;
+}
+#none {
+    color: darkred;
+}
+#stile:hover{
+    font: italic;
+}
