@@ -6,11 +6,15 @@ a[href="https://www.link-group.eu/"]
     color: red;
 }
 #some {
-    color: darkblue;
+    color: darkred;
 }
 #none {
-    color: darkred;
+    color: darkblue;
 }
 #stile:hover{
     font: italic;
+}
+#new::after{
+    content: " - NEW";
+    color: yellow;
 }
