@@ -15,6 +15,10 @@ a[href="https://www.link-group.eu/"]
     font: italic;
 }
 #new::after{
-    content: " - NEW";
+    content: " NEW";
+    color: yellow;
+}
+#bogo::after{
+    content: " NEW";
     color: yellow;
 }
